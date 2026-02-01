@@ -6,7 +6,7 @@ GBDA302 Week 3 Side Quest: The Magic Forest - Interactive Story Game
 
 ## Authors
 
-[Your Name Here]
+Rini Lu
 
 ---
 
@@ -38,6 +38,5 @@ N/A
 
 ## GenAI
 
-This project was created with assistance from Claude (Anthropic AI). Claude helped structure the code, write the story content, and generate all comments and documentation.
-
+This project was created with assistance from Claude. Claude helped me brainstoming the idea, and double check the code
 ---
